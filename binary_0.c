@@ -10,7 +10,7 @@ int main()
         n = a % 2;
         if (position % 2 == 0)
         {
-            n = 1;
+            n = 0;
         }
 
         m = n * i;
